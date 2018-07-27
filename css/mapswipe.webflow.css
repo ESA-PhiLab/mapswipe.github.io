@@ -333,7 +333,7 @@ a:hover {
   height: 100%;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  background-image: url('../images/vaccination.jpg');
+  background-image: url('../images/avezzano.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -478,4 +478,3 @@ a:hover {
     height: 200px;
   }
 }
-
