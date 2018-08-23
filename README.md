@@ -1,2 +1,2 @@
 # SentinelSwipe Landing page
-SentinelSwipe's landing page https://esa-philab.github.io/sentinelswipe
+SentinelSwipe's landing page: [sentinelswipe.org](http://sentinelswipe.org)
